@@ -1,0 +1,23 @@
+.chat-window {
+  height: 80vh;
+  width: 100vw;
+}
+
+.chat-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  width: 100vw;
+  background: lightseagreen;
+}
+
+.chat-form input {
+  width: 80vw;
+  height: 50%;
+}
+
+.chat-form button {
+  width: 20vw;
+  height: 50%;
+}
